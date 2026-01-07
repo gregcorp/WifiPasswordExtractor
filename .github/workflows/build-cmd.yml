@@ -1,4 +1,4 @@
-name: WifiPasswordExtractor
+name: WifiPasswordExtractGor
 
 on:
   push:
